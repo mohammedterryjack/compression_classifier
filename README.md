@@ -1,2 +1,1 @@
-# compression_classifier
-Kolmogorov Complexity
+#Text distance, ranking and classification based on Kolmogorov Complexity
